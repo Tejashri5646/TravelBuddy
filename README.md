@@ -1,5 +1,5 @@
-# TravelBuddy
-TravelBuddy is a web application designed to help users discover and share travel listings. Users can create listings for places they've visited or experiences they want to offer, and other users can browse and interact with these listings.
+# TravelStar
+TravelStar is a web application designed to help users discover and share travel listings. Users can create listings for places they've visited or experiences they want to offer, and other users can browse and interact with these listings.
 
 **Features**
 Listing Creation: Users can create new listings, providing details such as title, description, price, location, and country.
